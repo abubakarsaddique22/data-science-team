@@ -1,0 +1,23 @@
+[project]
+name = "data-science-team"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.4.7",
+    "ddgs>=9.10.0",
+    "fastapi[standard]>=0.128.0",
+    "jwt>=1.4.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "ollama>=0.6.1",
+    "openai>=2.16.0",
+    "panda>=0.3.1",
+    "pyjwt>=2.10.1",
+    "python-dotenv>=1.2.1",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.46",
+    "uvicorn>=0.40.0",
+]
